@@ -1,0 +1,35 @@
+{
+  "name": "Springtrap",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "SharedModules": {
+        "$path": "src/SharedModules"
+      },
+      "Abilities":{
+        "$path":"src/Abilities"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/Server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/Client"
+        }
+      }
+    },
+   
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
