@@ -1,0 +1,11 @@
+return{
+    Idle=132895013325458,
+    GrabAttack1=124888042347486,
+    GrabAttack1Victim=87891301966170,
+    GrabAttack2=91990648016325,
+    Action=113578748664058,
+    Sit=108028872943242,
+    GrabAttack2Victim=96298597168385,
+    GrabMiss=104330065147971,
+    IdleDeath=97365017338782,
+}
